@@ -1,4 +1,4 @@
 git add -A
-git commit -m "Updated"
+git commit -m "Done"
 git push
 clear
